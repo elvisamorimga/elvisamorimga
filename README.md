@@ -1,7 +1,9 @@
 # Olá, eu sou o Elvis Soares Amorim! 👋
 
 ## Sobre mim
-Estudante do curso superior de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPA Campus Paragominas**. Sou fundador e gestor da **Amorim Game House**, onde uno a paixão por tecnologia à prática diária com desenvolvimento de software, manutenção de hardware, infraestrutura de redes e gestão de consoles de videogame. 
+Fundador e CEO da **Amorim Corporation** — *"Conectando ideias ao redor do mundo"*. 
+
+Estudante do curso superior de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPA Campus Paragominas** e gestor da **Amorim Game House**, onde uno a paixão por tecnologia à prática diária com desenvolvimento de software, manutenção avançada de hardware, infraestrutura de redes e gestão de consoles de videogame.
 
 Meu contato com lógica de programação e estruturação de arquivos começou como um hobby, criando e customizando mods para jogos de simulação da SCS Software (ATS e ETS2) — parametrização de economia, manifestos e arquivos de definição (`.sii`). Hoje, foco meu desenvolvimento em soluções desktop/backend, automação de sistemas, gerenciamento de banco de dados e integração de redes e consoles.
 
@@ -33,18 +35,3 @@ Meu contato com lógica de programação e estruturação de arquivos começou c
 
 - **Email:** elvisamorimga@gmail.com
 - **LinkedIn:** [Elvis Amorim](https://www.linkedin.com/in/elvisamorimga)
-
-<!--
-**elvisamorimga/elvisamorimga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
